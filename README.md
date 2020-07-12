@@ -9,9 +9,9 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/ArmanAmp4rator/AAM
+git clone https://github.com/shazada-shariar/fb-shazada
 
-cd AAM
+cd fb-shazada
 
 pip2 install requests
 
