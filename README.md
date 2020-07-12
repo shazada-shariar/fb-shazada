@@ -1,2 +1,26 @@
-# fb-hack
-____  _   _    _     _____   _    ____    _ / ___|| | | |  / \   |__  /  / \  |  _ \  / \ \___ \| |_| | / _ \    / /  / _ \ | | | |/ _ \  ___) |  _  |/ ___ \  / /_ / ___ \| |_| / ___ \ |____/|_| |_/_/   \_\/____/_/   \_\____/_/   \_\   ____  _   _    _    ____  ___    _    ____ / ___|| | | |  / \  |  _ \|_ _|  / \  |  _ \ \___ \| |_| | / _ \ | |_) || |  / _ \ | |_) |  ___) |  _  |/ ___ \|  _ &lt; | | / ___ \|  _ &lt; |____/|_| |_/_/   \_\_| \_\___/_/   \_\_| \_\
+# fb-shazada
+edit BY shazada shariar
+
+pkg update
+
+pkg upgrade
+
+pkg install python2
+
+pkg install git
+
+git clone https://github.com/ArmanAmp4rator/AAM
+
+cd AAM
+
+pip2 install requests
+
+pip2 install mechanize
+
+chmod +x *
+
+python2 AAM
+
+#USENAME = shazada
+
+#PASSWORD = shariar
