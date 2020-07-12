@@ -19,7 +19,7 @@ pip2 install mechanize
 
 chmod +x *
 
-python2 AAM
+python2 fb-shazada
 
 #USENAME = shazada
 
